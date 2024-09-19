@@ -1,3 +1,10 @@
+//
+//  ContentView.swift
+//  SportsEventsListCell
+//
+//  Created by Eli Wuerth on 9/18/24.
+//
+
 import SwiftUI
 
 struct ContentView: View {
